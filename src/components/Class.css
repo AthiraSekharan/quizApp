@@ -1,0 +1,24 @@
+.c1{
+    width: 540px;
+    margin: auto;
+    margin-top: 50px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: rgb(43, 23, 43);
+    padding: 30px,40px;
+}
+
+.container .Correct{
+    background: #78dfb5;
+    border-color: #07ed9c;
+}
+.container .Wrong{
+    background: #ecb7b7;
+    border-color: #FF4A4A;
+
+}
+
+ .btn{background-color: rgba(126, 36, 126, 0.419);
+ }   
